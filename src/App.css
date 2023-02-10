@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+
 }
 
 .App-logo {
@@ -36,3 +37,13 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+.sign{
+  padding: 10px;
+  font-size: 10px;
+  cursor: pointer;
+}
+
+
